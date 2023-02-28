@@ -83,13 +83,15 @@ p {
 /* Navbar */
 
 .navbar {
-	position: absolute;
+	position: relative;
 	z-index: 99999;
 	top: 0;
 	width: 100%;
 	padding: 1.8rem 1rem;
 	font-family: 'Alegreya Sans', sans-serif;
 }
+
+
 
 .navbar-dark .navbar-nav .nav-link {
 	color: #000;
@@ -456,7 +458,7 @@ p {
 
 .works {
 	font-size: 1.2em;
-	padding-top: 14rem;
+	padding-top: 8rem;
 	padding-bottom: 3rem;
 }
 
@@ -465,7 +467,7 @@ p {
 
 .studio {
 	font-size: 1.2em;
-	padding-top: 10rem;
+	padding-top: 8rem;
 	padding-bottom: 10rem;
 }
 
@@ -474,7 +476,7 @@ p {
 
 .contact {
 	font-size: 1.8em;
-	padding-top: 15rem;
+	padding-top: 8rem;
 	padding-bottom: 10rem;
 }
 
