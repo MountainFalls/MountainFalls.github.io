@@ -369,11 +369,11 @@ p {
 
 }
 
-@media (min-width: 1200px) {
-	.Wrapper>div {
-		height: 100%;
-	}
-}
+/* @media (min-width: 1200px) { */
+	/* .Wrapper>div { */
+		/* height: 100%; */
+	/* } */
+/* } */
 
 .split-image-left {
 	background-size: cover;
